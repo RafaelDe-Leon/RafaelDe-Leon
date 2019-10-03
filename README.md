@@ -1,6 +1,6 @@
 # Rafael-Portfolio-2
 
-Link to the live page (https://rafaelde-leon.github.io/Rafael-Portfolio-2/.)
+Portfolio Page for Rafael De Leon
 
 ## Built Using
 
