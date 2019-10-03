@@ -49,6 +49,10 @@ header.masterhead {
     opacity: 0.5;
 }
 
+.portfolio-caption {
+    margin-top: 15px;
+}
+
 .portfolio-control {
     margin-bottom: 25px;
 }
@@ -78,6 +82,15 @@ header.masterhead {
     padding: 50px;
     border-radius: 35px;
     margin-top: 15px;
+}
+
+.row-margin {
+    margin-bottom: 20px;
+}
+
+.gif-control {
+    width: 100%;
+    height: 250px;
 }
 
 .button-control {
