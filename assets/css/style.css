@@ -80,7 +80,7 @@ header.masterhead {
 .about-control {
     background-color: #e8eaf3;
     padding: 50px;
-    border-radius: 35px;
+    /* border-radius: 35px; */
     margin-top: 15px;
 }
 
