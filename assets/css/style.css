@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 p {
     line-height: 1.75;
 }
@@ -41,7 +45,7 @@ header.masterhead {
 }
 
 .portfolio-item:hover {
-    opacity: 0.5;
+    opacity: 0.8;
 }
 
 .portfolio-caption {
