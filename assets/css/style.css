@@ -13,7 +13,8 @@ h1, h2, h3, h4, h5, h6 {
 
 #mainNav {
     background-color: #212529c5;
-    /* padding: 20px 20px; */
+    padding: 20px 20px;
+    width: 100vw;
 }
 
 header.masterhead {
@@ -28,10 +29,6 @@ header.masterhead {
     padding-top: 300px;
     padding-bottom: 300px;
     color: white;
-}
-
-.nav-bar-margin {
-    margin-left: 60vw;
 }
 
 .main-head-text {
