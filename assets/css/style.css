@@ -53,6 +53,10 @@ header.masterhead {
     margin-bottom: 25px;
 }
 
+.profile-image {
+    height: 400px;
+}
+
 .page-section h2.section-heading {
     font-size: 40px;
     margin-top: 0;
