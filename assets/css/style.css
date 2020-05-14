@@ -57,6 +57,11 @@ header.masterhead {
     height: 400px;
 }
 
+.gallery-img {
+    height: 250px;
+    width: 450px;
+}
+
 .page-section h2.section-heading {
     font-size: 40px;
     margin-top: 0;
@@ -103,4 +108,11 @@ header.masterhead {
 
 .social-buttons {
     margin-top: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+    .profile-image {
+        height: 300px;
+        margin-bottom: 15px;
+    }
 }
