@@ -1,118 +1,125 @@
 html {
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 
 p {
-    line-height: 1.75;
+  line-height: 1.75;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-weight: 700;
-    font-family: Montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  font-family: Montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+    'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 #mainNav {
-    background-color: #212529c5;
-    padding: 20px 20px;
-    width: 100vw;
+  background-color: #212529c5;
+  padding: 20px 20px;
+  width: 100vw;
 }
 
 header.masterhead {
-    background-image: url(../images/01.jpg);
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-position: center center;
-    background-size: cover;
+  background-image: url(../images/01.jpg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
 }
 
 header.masterhead {
-    padding-top: 300px;
-    padding-bottom: 300px;
-    color: white;
+  padding-top: 300px;
+  padding-bottom: 300px;
+  color: white;
 }
 
 .main-head-text {
-    font-size: 100px;
-    font-weight: 700;
-    margin-bottom: 5px;
+  font-size: 100px;
+  font-weight: 700;
+  margin-bottom: 5px;
 }
 
 .page-section {
-    padding: 100px 0;
+  padding: 100px 0;
 }
 
 .portfolio-item:hover {
-    opacity: 0.8;
+  opacity: 0.8;
 }
 
 .portfolio-caption {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 
 .portfolio-control {
-    margin-bottom: 25px;
+  margin-bottom: 25px;
 }
 
 .profile-image {
-    height: 400px;
+  height: 400px;
 }
 
 .gallery-img {
-    height: 250px;
-    width: 450px;
+  height: 250px;
+  width: 450px;
 }
 
 .page-section h2.section-heading {
-    font-size: 40px;
-    margin-top: 0;
-    margin-bottom: 15px;
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
 }
 
 .page-section h3.section-subheading {
-    font-size: 16px;
-    font-weight: 400;
-    font-style: italic;
-    margin-bottom: 75px;
-    text-transform: none;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  margin-bottom: 75px;
+  text-transform: none;
 }
 
 .second-head-text {
-    font-size: 30px;
-    font-weight: 700;
-    text-transform: uppercase;
+  font-size: 30px;
+  font-weight: 700;
+  text-transform: uppercase;
 }
 
 .about-control {
-    background-color: #e8eaf3;
-    padding: 50px;
-    /* border-radius: 35px; */
-    margin-top: 15px;
+  background-color: #e8eaf3;
+  padding: 50px;
+  /* border-radius: 35px; */
+  margin-top: 15px;
 }
 
 .row-margin {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .gif-control {
-    width: 100%;
-    height: 250px;
+  width: 100%;
+  height: 250px;
 }
 
 .button-control {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
 .font-awesome-style {
-    font-size: 40px;
+  font-size: 40px;
 }
 
 .social-buttons {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 
 @media only screen and (max-width: 600px) {
-    .profile-image {
-        height: 300px;
-        margin-bottom: 15px;
-    }
+  .profile-image {
+    height: 300px;
+    margin-bottom: 15px;
+  }
 }
