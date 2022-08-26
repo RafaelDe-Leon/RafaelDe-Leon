@@ -9,7 +9,7 @@ I am a Full Stack Developer, with a background in Graphic Design since the start
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [rafael.deleon12688@gmail.com](mailto:rafael.deleon12688@gmail.com)
 * 🚀  I'm currently working on [LOOP](http://ridewithloop.com)
-* ⚡  I love to training and cryptocurrency
+* ⚡  I love to workout and cryptocurrency
 
 <a href="https://www.twitter.com/Rafael_deleon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Rafael_deleon?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
