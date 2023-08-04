@@ -8,11 +8,10 @@ I am a Full Stack Developer, with a background in Graphic Design since the start
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [rafael.deleon12688@gmail.com](mailto:rafael.deleon12688@gmail.com)
-* 🚀  I'm currently working on [LOOP](http://ridewithloop.com)
 * ⚡  I love to workout and cryptocurrency
 
-<a href="https://www.twitter.com/Rafael_deleon" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Rafael_deleon?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://twitter.com/Rafaelde_leon" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Rafaelde_leon?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/RafaelDe-Leon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RafaelDe-Leon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -46,7 +45,7 @@ src="https://img.shields.io/github/followers/RafaelDe-Leon?logo=github&style=for
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/RafaelDe-Leon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rafaeladeleon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Rafael_deleon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/RafaelDe-Leon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rafaeladeleon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Rafaelde_leon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
